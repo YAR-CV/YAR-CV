@@ -2,9 +2,9 @@
 - 👀 Passionate about blending Software Engineering, Machine learning, and Economics.  
 - 🌱 I’m currently studing at the Universidad Nacional Autónoma de México.
 - 💞️ Seeking to innovate and create intelligent solutions for today's and tomorrow's challenges.
-- 📫 Interested in Front-end Development, Machine Learning and Software Development projects.
+- 📫 Interested in Front-End Development, Machine Learning and Software Development projects.
 - |  
-- Front-end Development.
+- Front-End Development.
 - Machine Learning.
 - Software Engineering.
 - Financial Economics.

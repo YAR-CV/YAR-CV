@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Yariela, passionate about blending Computing Engineering and Financial Economics.
-- 🎓 Currently pursuing dual degrees: Financial Economics at Universidad Nacional Autónoma de México (UNAM) and Computer Engineering at (UVEG).
+- 👋 Hello there, I’m Yariela, passionate about blending Computer Engineering and Financial Economics.
+- 🎓 Currently pursuing dual degrees: Financial Economics and Computer Engineering, also I'm working towards to a master in Data Science & AI.
 - 💡 Seeking to innovate and create intelligent solutions for today's and tomorrow's challenges.
-- 🌐 Interested in Data Science, ML & AI Quantum Computing projects.
+- 🌐 Interested in Data Science, ML & AI projects.
 
 - 👥 Looking to collaborate on projects that push the boundaries of technology and economics.
 
